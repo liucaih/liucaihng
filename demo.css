@@ -1,0 +1,106 @@
+﻿#by{
+	width:600px;
+	height:1020px;
+	background:url(images/1.jpg);
+}
+#top{
+	width:600px;
+	height:210px;
+	padding-top:20px;
+}
+#top img{
+	width:500px;
+	background:no-repeat;
+	margin:10px;
+	padding:1px 0 0 20px;
+	font-size:100px;
+	color:red;
+	font-style:italic;
+	text-align:center;
+	font-family:Gigi,TimesNR,Jokerman;
+
+}
+#center{
+	margin:30px 0 0 0;
+	width:600px;
+	height:310px;	
+}
+#div1{
+	width:300px;
+	height:310px;
+	float:left;
+}
+#div1 img{
+	margin:20px;
+	width:300px;
+	height:310px;
+}
+#div2{
+	margin:30px 0 0 0;
+	width:300px;
+	height:310px;
+	float:left
+}
+#div2 p{
+	margin:30px 0 0 0;
+	font-size:28px;
+	padding:10px;
+	font-family:华文新魏;
+	letter-spacing:３px;
+}
+#center img{
+	float:right;
+}
+.p1{
+	margin:-10px;
+	width:300px;
+	font-size:32px;
+	text-align:center;
+	font-weight:bold;
+	font-style:none;
+}
+#bottom{
+		height:300px;
+}
+
+#bottom p{
+	text-align:center;
+}
+.p1 b{
+	font-style:italic;
+	font-size:65px;
+	color:red;
+}
+#bottom small{
+	padding:-50px 0 0 20px;
+	font-size:20px;
+}
+#left{
+	width:270px;
+	height:260px;
+	float:left;
+}
+#left img{
+	width:250px;
+	height:250px;
+	padding:0 0 0 20px
+}
+#right{
+	width:320px;
+	height:260px;
+	float:left;
+	padding-left:-5px;
+}
+#right p{
+	padding:12px;
+	font-size:16px;
+	font-weight:bold;
+	font-style:none;
+}
+h2{
+	font-family:幼圆;
+	margin:-20px 0 0 20px;
+	font-size:48px;
+	font-style:italic;
+	text-align:center;
+}
